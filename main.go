@@ -1,7 +1,7 @@
 package main
 
 import (
-	ehmgr "ehmgr/pkg"
+	ehmgr "github.com/EndlessHosting/ehmgr/pkg"
 
 	"github.com/jawher/mow.cli"
 	"github.com/sethvargo/go-password/password"

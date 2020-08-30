@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	ehmgr "ehmgr/pkg"
 	"fmt"
+	ehmgr "github.com/EndlessHosting/ehmgr/pkg"
 	"github.com/sethvargo/go-password/password"
 	"os"
 	"strings"
