@@ -1,0 +1,7 @@
+{
+	"endpoint": "https://yourapi.com",
+	"key": "API-KEY",
+	"ip": "DEFAULT IP",
+	"domain": "HOST.SITE",
+	"package": "DEFAULT_PACKAGE"
+}
